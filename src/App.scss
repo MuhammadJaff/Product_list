@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding:0;
+  
+}
+
+.searchbar_full{
+  margin: 1rem auto;
+  .search_bar_cont{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    gap: .3rem;
+  }
+}
+.search_itself{
+  margin: .5rem 0 .5rem 0;
+}
+.container_all{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.headers_of{
+  gap: 2rem;
+}
+.headers_of{
+  margin-left: -1rem;
+  th{
+    
+    padding: 0 .5rem;
+  }
+}
+.row_of{
+    padding: 0 1rem 0 0 ;
+}
+// Producttable
+
